@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hunter
 
-<!--
-**ThomasHunterX/ThomasHunterX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into the world of **AI & Machine Learning** with a passion for:
+- 🤖 Deep Learning: patterns, perception, and potential
+- 🎨 Generative AI: teaching machines to create
+- 🧬 Evolutionary Algorithms: systems that evolve and optimize
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Google's Machine Learning Crash Course
+- AI for Everyone by Andrew Ng
+- Python, Math for Machine Learning, and Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects Coming Soon
+- Beginner ML models and visualizations
+- A Generative Art Bot
+- Custom AI Evolution Playground
+
+## 🌐 Connect with Me
+(https://www.linkedin.com/in/thomas-hunter-142174365/)
+
+---
+
+✨ This space will grow with my journey. Let’s build intelligence, together.
